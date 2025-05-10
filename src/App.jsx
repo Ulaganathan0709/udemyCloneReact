@@ -1,10 +1,10 @@
+import Categories from './components/Categories';
+import Navbar from './components/Navbar';
+import Recommended from './components/Recommended';
+import Topics from './components/Topics';
+import PopularSessions from './components/PopularSessions';
+import Footer from './components/Footer';
 
-import Categories from './components/categories'
-import Navbar from './components/Navbar'
-import Recommended from './components/Recommended'
-import Topics from './components/Topics'
-import PopularSessions from './components/PopularSessions'
-import Footer from './components/Footer'
 
 function App() {
 
