@@ -5,7 +5,7 @@ This is a **React.js version** of the Udemy Clone frontend, originally built usi
 ---
 
 ## 🔗 Live Demo  
-👉 [View Deployed Site](https://your-vercel-url.vercel.app)
+👉 [View Deployed Site](https://udemy-react-silk-one.vercel.app/)
 
 ---
 
