@@ -31,7 +31,7 @@ function Footer() {
       </div>
       <div className="footer__two">
         <h1>Udemy</h1>
-        <p>&copy; Udemy, Incc</p>
+        <p>&copy; Udemy, Inc</p>
       </div>
     </div>
   );
